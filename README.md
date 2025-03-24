@@ -1,2 +1,4 @@
 # Goodreads-Database
 Database Theory and Design Final Project
+
+Goodreads, an Amazon subsidiary, is a social media platform centered around a vast database of books, allowing users to catalog their reading lists, rate and review books, and engage in discussions through reading groups and comments. Founded in 2006 and acquired in 2013 with over 90 million users, its mission is to help readers discover and engage with books. However, Amazon has made little effort to improve the site, leaving it largely unchanged for a decade. Goodreads functions as both a book catalog and a social network, featuring extensive metadata on books and authors while enabling users to create personalized bookshelves and track their reading. Its database structure is essential, supporting book details, user-generated shelves, and social interactions, ensuring a personalized and interactive reading experience.
